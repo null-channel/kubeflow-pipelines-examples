@@ -1,0 +1,6 @@
+sklearn
+matplotlib
+fastapi
+numpy
+pandas
+kfp
